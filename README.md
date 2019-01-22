@@ -14,7 +14,7 @@ BitBucket:
 
 DESCRIPTION:
 
-Python based universal wrapper for Linux package managers.
+Universal wrapper for Linux package managers, written in Python.
 
 Currently Compatible Package Managers:
 
