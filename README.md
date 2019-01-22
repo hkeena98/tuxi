@@ -8,9 +8,9 @@ Date of Release: 9/29/2018
 
 License: MIT License
 
-GitHub: https://github.com/hkeena98/tuxi
+GitHub: 
 
-BitBucket: https://bitbucket.org/KeenaSoft/tuxi
+BitBucket: 
 
 DESCRIPTION:
 
