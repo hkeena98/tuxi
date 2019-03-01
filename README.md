@@ -1,6 +1,6 @@
 # tuxi
 
-Author: Henry Keena)
+Author: Henry Keena
 
 Release: 0.1
 
