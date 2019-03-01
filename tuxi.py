@@ -1,5 +1,5 @@
 """
-Author: Keye Development (Henry Keena)
+Author: Henry Keena
 Date: 8/6/2018
 Release: 0.1
 License: MIT
