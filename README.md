@@ -1,6 +1,6 @@
 # tuxi
 
-Author: Keye Development (Henry Keena)
+Author: Henry Keena)
 
 Release: 0.1
 
@@ -8,9 +8,7 @@ Date of Release: 9/29/2018
 
 License: MIT License
 
-GitHub: https://github.com/KeyeDevelopment/tuxi
-
-BitBucket: https://bitbucket.org/KEyeDevelopment/phypass/src/master/
+GitHub: https://github.com/hkeena98/tuxi
 
 DESCRIPTION:
 
